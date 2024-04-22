@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  background-color: deepskyblue;
+  padding: 25px;
+}
+
+form label {
+  display: inline-block;
+  width: 120px;
+}
+
+form div {
+  margin: 15px;
+}
+
+.profilePic {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+nav {
+  background-color: gold;
+  font-size: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
